@@ -29,8 +29,6 @@
         <activity android:name=".NewSaleActivity" android:exported="false" />
         <activity android:name=".ReportsActivity" android:exported="false" />
 
-        <activity android:name=".SignUpActivity" android:exported="false"/>
-        <activity android:name=".ForgotPasswordActivity" android:exported="false"/>
 
     </application>
 
